@@ -17,4 +17,4 @@
 - Keep in mind best practices
 - Error analysis and refine
 ### Summarization
-- Explain a task to LLM (e.g Your task is to summarize ( or you can write it to extract information) text delimited by <> in the tone that is helpful to shipping department)
+- Explain a task to LLM (e.g Your task is to summarize ( or you can write it to extract information from) text delimited by <> in the tone that is helpful to shipping department)
