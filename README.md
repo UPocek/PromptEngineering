@@ -18,3 +18,5 @@
 - Error analysis and refine
 ### Summarization
 - Explain a task to LLM (e.g Your task is to summarize ( or you can write it to extract information from) text delimited by <> in the tone that is helpful to shipping department)
+
+![ChatGPT prompting](https://github.com/UPocek/PromptEngineering/blob/master/docs/Chap-gpt-prompting.jpg)
