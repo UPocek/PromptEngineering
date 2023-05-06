@@ -18,5 +18,12 @@
 - Error analysis and refine
 ### Summarization
 - Explain a task to LLM (e.g Your task is to summarize ( or you can write it to extract information from) text delimited by <> in the tone that is helpful to shipping department)
+### Inferring
+- Extract some information about text (e.g. Sentiment (positive/negative), Identify types of emotions, Identify anger, Extract product and company name from customer reviews, Inferring topics)
+### Transforming
+- You can use LLMs to transform text from one form to another (e.g. Translation, Proofreading and text correction, format transformation, Tone transformation)
+### Expending
+- Generate text for custom usecase based on specified task and rules (e.g. Customize the automated reply to a customer email, Remind the model to use details from the customer's email, Temperature=randomnes)
+
 
 ![ChatGPT prompting](https://github.com/UPocek/PromptEngineering/blob/master/docs/Chap-gpt-prompting.jpg)
